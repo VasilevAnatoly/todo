@@ -8,12 +8,12 @@ Install the dependencies and devDependencies and start the development server.
 
 ```sh
 $ npm install
-$ node run dev
+$ npm run dev
 ```
 
 For production environments...
 
 ```sh
 $ npm install
-$ node run build
+$ npm run build
 ```
