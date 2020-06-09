@@ -1,0 +1,18 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rules": {
+    "prettier": true,
+    "only-arrow-functions": true,
+    "promise-function-async": true,
+    "no-var-requires": true,
+    "no-duplicate-variable": [true, "check-parameters"],
+    "no-use-before-declare": true,
+    "prefer-object-spread": false,
+    "triple-equals": true,
+    "arrow-return-shorthand": true,
+    "no-string-literal": false,
+    "ordered-imports": false,
+    "no-console": false,
+    "object-literal-sort-keys": false
+  }
+}
