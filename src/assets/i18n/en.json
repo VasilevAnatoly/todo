@@ -1,0 +1,46 @@
+{
+  "APP": {
+    "NOTIFY": {
+      "ERROR": {
+        "COMMON": "Some error occured!"
+      }
+    }
+  },
+  "TODO_LIST": {
+    "PAGE_TITLE": "ToDo List Project | Todos",
+    "BUTTONS": {
+      "FIND": "Find",
+      "ADD": "Add"
+    },
+    "PLCHLDRS": {
+      "TITLE": "Title",
+      "DESCRIPTION": "Description",
+      "COMPLETED": "Only completed"
+    }
+  },
+  "TODO": {
+    "BUTTONS": {
+      "EDIT": "Edit",
+      "DELETE": "Delete"
+    }
+  },
+  "ADD_EDIT_TODO": {
+    "HEADER": {
+      "ADD": "Add Todo item",
+      "EDIT": "Edit Todo item"
+    },
+    "PLCHLDRS": {
+      "TITLE": "Title",
+      "DESCRIPTION": "Description"
+    },
+    "BUTTONS": {
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "CANCEL": "Cancel"
+    }
+  },
+  "NOT_FOUND": {
+    "PAGE_TITLE": "ToDo List Project | Not Found",
+    "HEADER": "Page not found"
+  }
+}
