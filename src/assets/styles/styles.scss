@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+@import "~tempusdominus-bootstrap-4/build/css/tempusdominus-bootstrap-4.css";
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~angular-notifier/styles/core.scss";
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+button:focus,
+button:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
